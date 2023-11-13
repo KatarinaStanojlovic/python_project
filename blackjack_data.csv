@@ -1,0 +1,15 @@
+Player's Hand,Dealer's Hand,Player Decision,Player Won
+21,3,Stand,True
+20,2,Stand,True
+20,10,Stand,True
+19,6,Stand,True
+11,7,Hit,True
+11,8,Hit,True
+10,3,Hit,True
+14,2,Stand,True
+18,6,Stand,True
+17,6,Stand,True
+21,3,Stand,True
+16,6,Hit,True
+12,10,Stand,True
+11,3,Stand,True
